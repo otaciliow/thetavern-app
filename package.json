@@ -1,0 +1,21 @@
+{
+  "name": "happyhour-app",
+  "version": "1.0.0",
+  "description": "Chat de mensagens realtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "Otacilio Lima",
+  "license": "ISC",
+  "dependencies": {
+    "@skynexui/components": "^1.24.3",
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
